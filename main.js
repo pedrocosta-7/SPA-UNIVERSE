@@ -14,9 +14,9 @@ function route(event) {
 
 }
 const routes = {
- "/" : "/pages/home.html",
- "/universo" : "/pages/universo.html",
- "/explore" : "/pages/explore.html"
+ "/" : "/SPA-UNIVERSE/pages/home.html",
+ "/universo" : "/SPA-UNIVERSE/pages/universo.html",
+ "/explore" : "/SPA-UNIVERSE/pages/explore.html"
 
 }
 function handle() {
